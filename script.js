@@ -11,7 +11,7 @@ const entryDropdown = document.getElementById("entry-dropdown");
 const addEntryButton = document.getElementById("add-entry"); 
 const clearButton = document.getElementById("clear"); 
 const output = document.getElementById("output"); 
-
+console.log("HI");
 //DRUGO URADIM OVO. TREBACE POSLE
 let isError = false;
 
