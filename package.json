@@ -4,7 +4,7 @@
   "description": "Calorie counter",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Marko P",
   "license": "ISC",
